@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/emilybache/gildedrose-refactoring-kata/gildedrose"
+	"github.com/adrixo/gilded-rose-go/gildedrose"
 )
 
 func main() {
